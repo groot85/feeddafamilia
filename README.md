@@ -5,8 +5,8 @@ Este projeto foi desenvolvido como parte do Projeto de Extensão IV — Coleta d
 
 O objetivo principal do projeto foi criar e aplicar uma intervenção tecnológica prática capaz de coletar, processar e exibir de forma dinâmica informações que analisam a proximidade e o conhecimento mútuo entre pais/responsáveis e filhos.
 
-**Metodologia: No-Code & AI-Powered
-**Toda a lógica de programação, estilização responsiva e gerenciamento de estados dinâmicos foi concebida de forma No-Code, utilizando interações em linguagem natural e prototipagem rápida através do Gemini Canvas. Isso permitiu uma entrega ágil focada na arquitetura da informação, usabilidade (UX) e no impacto social da coleta de dados em tempo real.
+**Metodologia: No-Code & AI-Powered**
+Toda a lógica de programação, estilização responsiva e gerenciamento de estados dinâmicos foi concebida de forma No-Code, utilizando interações em linguagem natural e prototipagem rápida através do Gemini Canvas. Isso permitiu uma entrega ágil focada na arquitetura da informação, usabilidade (UX) e no impacto social da coleta de dados em tempo real.
 
 **Tecnologias Utilizadas**
 Front-end: HTML5 semântico, JavaScript moderno (ES6+) e Tailwind CSS para design responsivo e fluído.
